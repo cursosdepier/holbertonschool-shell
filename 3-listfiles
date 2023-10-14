@@ -1,4 +1,6 @@
-total 8
+#!/bin/bash
+ls -l
+Total 8
 drwxr-xr-x 5 root root 136 Oct 13 10:47 .
 drwxr-xr-x 1 root root 163 Oct 11 09:13 ..
 -rw-r--r-- 1 root root  13 Oct 12 12:58 0-hello_world
