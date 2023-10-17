@@ -1,1 +1,1 @@
-este es direcciones de shell
+"script de hola mundo"
