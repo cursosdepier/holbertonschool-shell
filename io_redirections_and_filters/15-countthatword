@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -c "bim" /etc/passwd
+grep "root"  /etc/passwd
